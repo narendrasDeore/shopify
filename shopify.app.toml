@@ -3,7 +3,7 @@
 client_id = "09341ab55f51f8980ad6dc857de5af64"
 name = "juppiter bot"
 handle = "juppiter-bot"
-application_url = "https://edgar-enzyme-promise-geographic.trycloudflare.com"
+application_url = "https://requiring-identical-fort-portal.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://edgar-enzyme-promise-geographic.trycloudflare.com/auth/callback",
-  "https://edgar-enzyme-promise-geographic.trycloudflare.com/auth/shopify/callback",
-  "https://edgar-enzyme-promise-geographic.trycloudflare.com/api/auth/callback"
+  "https://requiring-identical-fort-portal.trycloudflare.com/auth/callback",
+  "https://requiring-identical-fort-portal.trycloudflare.com/auth/shopify/callback",
+  "https://requiring-identical-fort-portal.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
